@@ -9,3 +9,11 @@ git rm [removing files]
 git mv [moving files]
 git log [viewing the commit history]
 git commit -amend [undoing things]
+
+git remote add origin https://github.com/adityamundada/CapgDemos.git
+
+git push -u origin master
+
+git checkout -b aguerobranch [move head pointer to the branch] [-b creates a branch also]
+
+
