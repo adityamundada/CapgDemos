@@ -1,0 +1,11 @@
+git init [initializing a repo in an existing directory]
+git clone [cloning an existing repo]
+git status [checking the status of your files] [tracking new files] [staging modified files]
+.gitignore [ignoring files]
+git add 
+git commit [committing your changes]
+git commit -a -m [skipping the staging area]
+git rm [removing files]
+git mv [moving files]
+git log [viewing the commit history]
+git commit -amend [undoing things]
