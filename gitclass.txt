@@ -16,4 +16,6 @@ git push -u origin master
 
 git checkout -b aguerobranch [move head pointer to the branch] [-b creates a branch also]
 
+branch log will have its own log and master's log
+
 
